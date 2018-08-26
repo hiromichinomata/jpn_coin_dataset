@@ -3,6 +3,8 @@
 ## 概要
 SSDお勉強用のデータセット作成と、ChainerCVを用いた学習セット一式です
 
+![preview](https://user-images.githubusercontent.com/26473720/44628613-1e0de280-a97e-11e8-8dff-1a0349a1bec5.jpg)
+
 ## 環境
 
 Python 3.x
