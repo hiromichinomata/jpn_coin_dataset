@@ -6,9 +6,9 @@ SSDお勉強用のデータセット作成と、ChainerCVを用いた学習セ�
 
 ## 環境
 
-Python 3.x
-Chainer 4.4
-ChainerCV 0.10
+- Python 3.x
+- Chainer 4.4
+- ChainerCV 0.10
 
 ## 使い方
 
