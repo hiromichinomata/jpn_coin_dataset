@@ -1,6 +1,5 @@
-# SSD、YOLO用 データセット生成ツール
+# SSD、YOLO等向け 学習データセット生成ツール
 
-## 概要
 SSDお勉強用のデータセット作成と、ChainerCVを用いた学習セット一式です
 
 ![preview](https://user-images.githubusercontent.com/26473720/44628613-1e0de280-a97e-11e8-8dff-1a0349a1bec5.jpg)
@@ -21,4 +20,4 @@ ChainerCV 0.10
 
 ### 学習
 
-* ssd_train-coin.ipynb ... 生成した画像セットで学習を行います。内容はChainerCVのSSD学習サンプルと同じです。
+* ssd_train-coin.ipynb ... 生成した画像セットで学習を行います。内容はChainerCVのSSD学習サンプルとだいたい同じです。
