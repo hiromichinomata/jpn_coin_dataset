@@ -1,0 +1,9 @@
+coin_0002
+coin_0004
+coin_0006
+coin_0007
+coin_0009
+coin_0012
+coin_0013
+coin_0014
+coin_0018

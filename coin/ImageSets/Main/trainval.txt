@@ -1,0 +1,11 @@
+coin_0000
+coin_0001
+coin_0003
+coin_0005
+coin_0008
+coin_0010
+coin_0011
+coin_0015
+coin_0016
+coin_0017
+coin_0019

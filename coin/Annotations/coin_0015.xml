@@ -1,0 +1,1 @@
+<annotation><object><difficult>0</difficult><name>500</name><bndbox><ymax>280</ymax><xmax>217</xmax><ymin>169</ymin><xmin>106</xmin></bndbox></object><object><difficult>0</difficult><name>500</name><bndbox><ymax>206</ymax><xmax>255</xmax><ymin>112</ymin><xmin>160</xmin></bndbox></object></annotation>
