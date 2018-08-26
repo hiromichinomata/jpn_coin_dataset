@@ -1,0 +1,2 @@
+# jpn_coin_dataset
+SSDお勉強用のデータセット作成と、ChainerCVを用いた学習セット一式です
