@@ -10,12 +10,13 @@ SSDお勉強用のデータセット作成と、ChainerCVを用いた学習セ�
 - Chainer 4.4
 - ChainerCV 0.10
 
-## 使い方
+## ファイル
 
 ### データ生成
 
 * coin_dataset.ipynb ... 画像を生成する Jupyter Notebook です
-* japanese_coin/coin ... 検出対象となる画像を格納します。透過pngがおすすめ
+* japanese_coin/coin ... 検出対象となる画像を格納します。透過pngがおすすめ。
+  * ファイル名からラベル名を作ってるので、新たな画像を使う場合は気をつけてください。
 * japanese_coin/tex ... 背景となる画像を格納します。
 
 ### 学習
